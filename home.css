@@ -202,12 +202,12 @@
 }
 
 .astro-content h1 {
-    font-family: var(--roboto);
+    
     font-size: 30px;
 }
 
 .astro-content p {
-    font-family: var(--polta);
+    
     font-size: 16px;
 }
 
@@ -215,7 +215,7 @@
     display: inline-flex;
     align-items: center;
     padding: 10px 25px;
-    background: var(--lightgray);
+    
     border-radius: 30px;
     border: 0;
     box-shadow: inset 1px 1px 5px 1px rgba(0, 0, 0, 0.5);
@@ -224,7 +224,7 @@
 .astro-content button a {
     text-decoration: none;
     color: black;
-    font-family: var(--roboto);
+    
     font-size: 13px;
     font-weight: bold;
 }
